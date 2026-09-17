@@ -107,3 +107,23 @@ The Power BI dashboard provides an interactive view of social media performance.
 - Analyzed positive, negative, and neutral sentiment.
 - Compared campaign performance based on engagement metrics.
 
+## 📁 Project Structure
+
+```text
+Social-Media-Analytics-Dashboard
+│
+├── Dataset
+│   └── Hospital_Data.csv
+│
+├── Python
+│   └── SOCIAL MEDIA PROJECT.ipynb
+│
+├── Power BI
+│   └── SOCIAL MEDIA PROJECT.pbix
+│
+├── Images
+│   ├── SocialMediaDashboard.png
+│
+├── README.md
+└── LICENSE
+```
