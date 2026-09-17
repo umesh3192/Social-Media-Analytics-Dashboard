@@ -98,3 +98,12 @@ The Power BI dashboard provides an interactive view of social media performance.
 - Campaign performance
 - Interactive filters and slicers
 - KPI tracking
+
+## 💡 Key Insights
+
+- Identified content with higher engagement levels.
+- Analyzed follower growth trends over time.
+- Identified posting periods associated with better engagement.
+- Analyzed positive, negative, and neutral sentiment.
+- Compared campaign performance based on engagement metrics.
+
