@@ -34,6 +34,5 @@ The goal is to convert raw social media data into meaningful insights that help 
 | Data Analysis | Python, Pandas, MS Excel |
 | Microsoft Excel | Data storage and preliminary analysis |
 | Data Visualization | Power BI |
-| Dashboard Development | Power BI |
-| IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop |
+| IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop, MS Excel |
 | Version Control | Git & GitHub |
