@@ -113,8 +113,9 @@ The Power BI dashboard provides an interactive view of social media performance.
 Social-Media-Analytics-Dashboard
 │
 ├── Dataset
-│   └── Hospital_Data.csv
-│
+│   └── Social Media Project.csv
+│   └── cleaned_social_media.csv
+
 ├── Python
 │   └── SOCIAL MEDIA PROJECT.ipynb
 │
