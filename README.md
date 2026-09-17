@@ -128,3 +128,35 @@ Social-Media-Analytics-Dashboard
 ├── README.md
 └── LICENSE
 ```
+
+## 🚀 Future Enhancements
+
+- Add real-time social media data
+- Integrate additional social media platforms
+- Improve sentiment analysis
+- Add automated reporting
+- Develop advanced engagement prediction
+
+## 📚 Skills Demonstrated
+
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Python
+- Pandas
+- Excel
+- Power BI
+- Data Visualization
+- KPI Analysis
+- Business Insights
+
+## 🔄 Project Workflow
+
+1. Data Collection
+2. Data Cleaning and Formatting using Excel
+3. Data Analysis using Excel Formulas and Pivot Tables
+4. Exploratory Data Analysis using Python
+5. Data Processing using Pandas
+6. Data Visualization
+7. Power BI Dashboard Development
+8. Business Insights
