@@ -31,8 +31,8 @@ The goal is to convert raw social media data into meaningful insights that help 
 | Programming Language | Python |
 | Data Processing | Pandas, NumPy |
 | Data Source | CSV (.csv) |
-| Data Analysis | Python, Pandas |
-| Excel | Data storage and preliminary analysis |
+| Data Analysis | Python, Pandas, Excel |
+| Microsoft Excel | Data storage and preliminary analysis |
 | Data Visualization | Power BI |
 | Dashboard Development | Power BI |
 | IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop |
