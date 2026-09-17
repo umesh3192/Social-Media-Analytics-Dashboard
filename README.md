@@ -26,9 +26,14 @@ The goal is to convert raw social media data into meaningful insights that help 
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
+| **Category** | **Technologies** |
 |---|---|
-| Python | Data analysis and preprocessing |
-| Pandas | Data cleaning and transformation |
+| Programming Language | Python |
+| Data Processing | Pandas, NumPy |
+| Data Source | CSV (.csv) |
+| Data Analysis | Python, Pandas |
 | Excel | Data storage and preliminary analysis |
-| Power BI | Interactive dashboard and visualization |
+| Data Visualization | Power BI |
+| Dashboard Development | Power BI |
+| IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop |
+| Version Control | Git & GitHub |
