@@ -36,3 +36,9 @@ The goal is to convert raw social media data into meaningful insights that help 
 | Data Visualization | Power BI |
 | IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop |
 | Version Control | Git & GitHub |
+
+## 📂 Dataset
+
+The dataset contains social media information used to analyze engagement, followers, posting performance, sentiment, and campaign performance.
+
+The dataset is provided in CSV format.
