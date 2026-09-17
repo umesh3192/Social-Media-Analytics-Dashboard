@@ -12,4 +12,4 @@ The goal is to convert raw social media data into meaningful insights that help 
 
 ## 📊 Dashboard Preview
 
-![Social Media Analytics Dashboard](Images/SocialMediaDashboard.png)
+![Social Media Dashboard](Images/SocialMediaDashboard.png)
