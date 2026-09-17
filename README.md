@@ -37,8 +37,24 @@ The goal is to convert raw social media data into meaningful insights that help 
 | IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop |
 | Version Control | Git & GitHub |
 
-## 📂 Dataset
+## 📂 Dataset Information
 
-The dataset contains social media information used to analyze engagement, followers, posting performance, sentiment, and campaign performance.
+The Social Media Analytics Dashboard uses a dataset containing social media information used to analyze engagement, follower growth, posting performance, sentiment, and campaign performance. The data was processed using Python and visualized using Power BI.
 
-The dataset is provided in CSV format.
+### Dataset Information
+
+| **Column / Data** | **Description** |
+| ----------------- | --------------- |
+| Social Media Platform | Contains the social media platform information. |
+| Post Date / Timestamp | Stores the date and time of social media posts. |
+| Engagement | Represents user interactions such as likes, comments, and shares. |
+| Followers | Contains follower information and growth over time. |
+| Sentiment | Represents positive, negative, or neutral sentiment. |
+| Campaign | Contains campaign-related information. |
+| Posting Time | Used to analyze performance based on posting time. |
+
+**Data Processing:** Python (Pandas & NumPy)
+
+**Visualization:** Power BI
+
+**File Format:** CSV (.csv)
