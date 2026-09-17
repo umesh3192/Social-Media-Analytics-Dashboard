@@ -13,3 +13,13 @@ The goal is to convert raw social media data into meaningful insights that help 
 ## 📊 Dashboard Preview
 
 ![Social Media Dashboard](Images/SocialMediaDashboard.png)
+
+## 🎯 Project Objectives
+
+- Analyze social media engagement
+- Track follower growth
+- Identify high-performing content
+- Analyze posting time performance
+- Understand sentiment trends
+- Evaluate campaign performance
+- Create an interactive Power BI dashboard
