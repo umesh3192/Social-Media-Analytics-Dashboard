@@ -61,7 +61,7 @@ The Social Media Analytics Dashboard uses a dataset containing social media info
 
 **File Format:** CSV (.csv)
 
-### 📗 Excel Implementation
+## 📗 Excel Implementation
 
 Excel was used for initial data preparation and analysis.
 
