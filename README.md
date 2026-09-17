@@ -31,10 +31,10 @@ The goal is to convert raw social media data into meaningful insights that help 
 | Programming Language | Python |
 | Data Processing | Pandas, NumPy |
 | Data Source | CSV (.csv) |
-| Data Analysis | Python, Pandas, MS Excel |
+| Data Analysis | Python, Pandas, Microsoft Excel |
 | Microsoft Excel | Data storage and preliminary analysis |
 | Data Visualization | Power BI |
-| IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop |
+| IDE / Tools | VS Code, Jupyter Notebook, Microsoft Excel, Power BI Desktop |
 | Version Control | Git & GitHub |
 
 ## 📂 Dataset Information
@@ -52,6 +52,8 @@ The Social Media Analytics Dashboard uses a dataset containing social media info
 | Sentiment | Represents positive, negative, or neutral sentiment. |
 | Campaign | Contains campaign-related information. |
 | Posting Time | Used to analyze performance based on posting time. |
+
+**Data Preparation:** Microsoft Excel
 
 **Data Processing:** Python (Pandas & NumPy)
 
