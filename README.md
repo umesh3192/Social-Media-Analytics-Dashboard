@@ -60,3 +60,41 @@ The Social Media Analytics Dashboard uses a dataset containing social media info
 **Visualization:** Power BI
 
 **File Format:** CSV (.csv)
+
+### 📗 Excel Implementation
+
+Excel was used for initial data preparation and analysis.
+
+- Data cleaning and formatting
+- Removing duplicate records
+- Checking missing values
+- Sorting and filtering social media data
+- Creating basic calculations
+- Preparing data for Power BI
+- Performing initial analysis using Excel formulas and Pivot Tables
+
+## 🐍 Python Analysis
+
+Python and Pandas were used for:
+
+- Data cleaning
+- Data preprocessing
+- Handling date and time values
+- Engagement analysis
+- Follower growth analysis
+- Sentiment analysis
+- Preparing data for visualization
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of social media performance.
+
+### Dashboard Features
+
+- Engagement analysis
+- Follower growth
+- Sentiment analysis
+- Posting time analysis
+- Campaign performance
+- Interactive filters and slicers
+- KPI tracking
