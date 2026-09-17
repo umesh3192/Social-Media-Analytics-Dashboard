@@ -23,3 +23,12 @@ The goal is to convert raw social media data into meaningful insights that help 
 - Understand sentiment trends
 - Evaluate campaign performance
 - Create an interactive Power BI dashboard
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Data analysis and preprocessing |
+| Pandas | Data cleaning and transformation |
+| Excel | Data storage and preliminary analysis |
+| Power BI | Interactive dashboard and visualization |
