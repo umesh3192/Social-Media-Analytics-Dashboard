@@ -160,3 +160,12 @@ Social-Media-Analytics-Dashboard
 6. Data Visualization
 7. Power BI Dashboard Development
 8. Business Insights
+
+## 👨‍💻 Author
+
+**Umesh Jadhav**
+
+- **LinkedIn:** https://www.linkedin.com/in/umesh-jadhav-ba2223219/
+- **GitHub:** https://github.com/umesh3192
+
+---
